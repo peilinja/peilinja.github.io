@@ -4,7 +4,7 @@ title: 能力陷阱
 subtitle: 读书笔记
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/thumb.jpg
+share-img: /assets/img/thumb.png
 tags: [books, reading]
 ---
 

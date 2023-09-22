@@ -22,9 +22,9 @@ author: peilin
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "anubiss301@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#facebook: deanattali
+#github: daattali
+  twitter: @pluscool_
+#patreon: DeanAttali
+#youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

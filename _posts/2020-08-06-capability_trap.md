@@ -5,6 +5,7 @@ subtitle: 读书笔记
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/thumb.png
+readtime: true
 tags: [books, reading]
 ---
 - 我们都喜欢花更多的时间做自己擅长的事情，这就会成为我们职场中的能力陷进

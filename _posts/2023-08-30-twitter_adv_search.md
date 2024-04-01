@@ -1,6 +1,6 @@
 ---
 layout: post
-title:推特高级搜索方法
+title: 推特高级搜索方法
 subtitle: 检索方法
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Resume About Me
+title: A Resume About Me(一封我的简历)
 subtitle: Please feel free to contact me.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/resume_pic.png
 share-img: /assets/img/path.jpg
 tags: [resume]
 ---
